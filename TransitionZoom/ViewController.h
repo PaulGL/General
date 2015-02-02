@@ -7,9 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "MyTransition.h"
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController <UICollectionViewDataSource, UICollectionViewDelegate, MyTransitionDelegate>
 
+@property (nonatomic, weak) IBOutlet UICollectionView *collectionView;
 
 @end
 

@@ -7,16 +7,19 @@
 //
 
 #import "AppDelegate.h"
+#import "MyTransition.h"
 
 @interface AppDelegate ()
-
+@property (nonatomic, strong) MyTransition* mytr;
 @end
 
 @implementation AppDelegate
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    // Override point for customization after application launch.
+    UINavigationController *nav = (UINavigationController*)self.window.rootViewController;
+    self.mytr = [[MyTransition alloc] init];
+    nav.delegate = self.mytr;
     return YES;
 }
 

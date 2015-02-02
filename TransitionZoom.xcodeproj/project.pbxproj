@@ -14,6 +14,17 @@
 		6E74A3501A7533E700C7AA34 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6E74A34F1A7533E700C7AA34 /* Images.xcassets */; };
 		6E74A3531A7533E700C7AA34 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6E74A3511A7533E700C7AA34 /* LaunchScreen.xib */; };
 		6E74A35F1A7533E700C7AA34 /* TransitionZoomTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E74A35E1A7533E700C7AA34 /* TransitionZoomTests.m */; };
+		6E74A3701A75375900C7AA34 /* nature1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6E74A3681A75375900C7AA34 /* nature1.jpg */; };
+		6E74A3711A75375900C7AA34 /* nature2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6E74A3691A75375900C7AA34 /* nature2.jpg */; };
+		6E74A3721A75375900C7AA34 /* nature3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6E74A36A1A75375900C7AA34 /* nature3.jpg */; };
+		6E74A3731A75375900C7AA34 /* nature4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6E74A36B1A75375900C7AA34 /* nature4.jpg */; };
+		6E74A3741A75375900C7AA34 /* nature5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6E74A36C1A75375900C7AA34 /* nature5.jpg */; };
+		6E74A3751A75375900C7AA34 /* nature6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6E74A36D1A75375900C7AA34 /* nature6.jpg */; };
+		6E74A3761A75375900C7AA34 /* nature7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6E74A36E1A75375900C7AA34 /* nature7.jpg */; };
+		6E74A3771A75375900C7AA34 /* nature8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6E74A36F1A75375900C7AA34 /* nature8.jpg */; };
+		6E74A37A1A753ECF00C7AA34 /* MyTransition.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E74A3791A753ECF00C7AA34 /* MyTransition.m */; };
+		6EE04BCE1A768F1900D0F8F3 /* DetailVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 6EE04BCD1A768F1900D0F8F3 /* DetailVC.m */; };
+		6EE04BD01A77A90200D0F8F3 /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 6EE04BCF1A77A90200D0F8F3 /* Settings.bundle */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +51,19 @@
 		6E74A3581A7533E700C7AA34 /* TransitionZoomTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TransitionZoomTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6E74A35D1A7533E700C7AA34 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6E74A35E1A7533E700C7AA34 /* TransitionZoomTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TransitionZoomTests.m; sourceTree = "<group>"; };
+		6E74A3681A75375900C7AA34 /* nature1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nature1.jpg; sourceTree = "<group>"; };
+		6E74A3691A75375900C7AA34 /* nature2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nature2.jpg; sourceTree = "<group>"; };
+		6E74A36A1A75375900C7AA34 /* nature3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nature3.jpg; sourceTree = "<group>"; };
+		6E74A36B1A75375900C7AA34 /* nature4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nature4.jpg; sourceTree = "<group>"; };
+		6E74A36C1A75375900C7AA34 /* nature5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nature5.jpg; sourceTree = "<group>"; };
+		6E74A36D1A75375900C7AA34 /* nature6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nature6.jpg; sourceTree = "<group>"; };
+		6E74A36E1A75375900C7AA34 /* nature7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nature7.jpg; sourceTree = "<group>"; };
+		6E74A36F1A75375900C7AA34 /* nature8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nature8.jpg; sourceTree = "<group>"; };
+		6E74A3781A753ECF00C7AA34 /* MyTransition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyTransition.h; sourceTree = "<group>"; };
+		6E74A3791A753ECF00C7AA34 /* MyTransition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyTransition.m; sourceTree = "<group>"; };
+		6EE04BCC1A768F1900D0F8F3 /* DetailVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailVC.h; sourceTree = "<group>"; };
+		6EE04BCD1A768F1900D0F8F3 /* DetailVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailVC.m; sourceTree = "<group>"; };
+		6EE04BCF1A77A90200D0F8F3 /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Settings.bundle; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,9 +107,14 @@
 			children = (
 				6E74A3461A7533E700C7AA34 /* AppDelegate.h */,
 				6E74A3471A7533E700C7AA34 /* AppDelegate.m */,
+				6E74A3781A753ECF00C7AA34 /* MyTransition.h */,
+				6E74A3791A753ECF00C7AA34 /* MyTransition.m */,
 				6E74A3491A7533E700C7AA34 /* ViewController.h */,
 				6E74A34A1A7533E700C7AA34 /* ViewController.m */,
+				6EE04BCF1A77A90200D0F8F3 /* Settings.bundle */,
 				6E74A34C1A7533E700C7AA34 /* Main.storyboard */,
+				6EE04BCC1A768F1900D0F8F3 /* DetailVC.h */,
+				6EE04BCD1A768F1900D0F8F3 /* DetailVC.m */,
 				6E74A34F1A7533E700C7AA34 /* Images.xcassets */,
 				6E74A3511A7533E700C7AA34 /* LaunchScreen.xib */,
 				6E74A3421A7533E700C7AA34 /* Supporting Files */,
@@ -96,6 +125,14 @@
 		6E74A3421A7533E700C7AA34 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				6E74A3681A75375900C7AA34 /* nature1.jpg */,
+				6E74A3691A75375900C7AA34 /* nature2.jpg */,
+				6E74A36A1A75375900C7AA34 /* nature3.jpg */,
+				6E74A36B1A75375900C7AA34 /* nature4.jpg */,
+				6E74A36C1A75375900C7AA34 /* nature5.jpg */,
+				6E74A36D1A75375900C7AA34 /* nature6.jpg */,
+				6E74A36E1A75375900C7AA34 /* nature7.jpg */,
+				6E74A36F1A75375900C7AA34 /* nature8.jpg */,
 				6E74A3431A7533E700C7AA34 /* Info.plist */,
 				6E74A3441A7533E700C7AA34 /* main.m */,
 			);
@@ -200,7 +237,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				6E74A34E1A7533E700C7AA34 /* Main.storyboard in Resources */,
+				6E74A3771A75375900C7AA34 /* nature8.jpg in Resources */,
+				6E74A3711A75375900C7AA34 /* nature2.jpg in Resources */,
 				6E74A3531A7533E700C7AA34 /* LaunchScreen.xib in Resources */,
+				6EE04BD01A77A90200D0F8F3 /* Settings.bundle in Resources */,
+				6E74A3731A75375900C7AA34 /* nature4.jpg in Resources */,
+				6E74A3751A75375900C7AA34 /* nature6.jpg in Resources */,
+				6E74A3701A75375900C7AA34 /* nature1.jpg in Resources */,
+				6E74A3761A75375900C7AA34 /* nature7.jpg in Resources */,
+				6E74A3721A75375900C7AA34 /* nature3.jpg in Resources */,
+				6E74A3741A75375900C7AA34 /* nature5.jpg in Resources */,
 				6E74A3501A7533E700C7AA34 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -220,7 +266,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				6E74A34B1A7533E700C7AA34 /* ViewController.m in Sources */,
+				6EE04BCE1A768F1900D0F8F3 /* DetailVC.m in Sources */,
 				6E74A3481A7533E700C7AA34 /* AppDelegate.m in Sources */,
+				6E74A37A1A753ECF00C7AA34 /* MyTransition.m in Sources */,
 				6E74A3451A7533E700C7AA34 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -345,6 +393,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = TransitionZoom/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -414,6 +463,7 @@
 				6E74A3641A7533E700C7AA34 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6E74A3651A7533E700C7AA34 /* Build configuration list for PBXNativeTarget "TransitionZoomTests" */ = {
 			isa = XCConfigurationList;
@@ -422,6 +472,7 @@
 				6E74A3671A7533E700C7AA34 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
